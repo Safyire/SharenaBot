@@ -16,4 +16,4 @@ async def quote():
     await bot.say(choice(['Yes?', 'My turn!', 'Let\'s go!']))
 
 
-bot.run('MzgwOTQ4ODM3MDAwNTQ0MjU3.DPAF7A.0YZPgXRLDN9dqv5KCYCqaORa2nI')
+bot.run('')  # Redacted
